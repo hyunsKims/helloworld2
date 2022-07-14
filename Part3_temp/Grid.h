@@ -47,6 +47,17 @@ Grid<T>::~Grid()
 }
 
 template<typename T>
+Grid<T>& Grid<T>::operator = (const Grid<T>& rhs)
+{
+    if (this == &rhs) {
+        return *this;
+    }
+
+    copyFrom(rhs);
+    return *this;    
+}
+
+template<typename T>
 void Grid<T>::setElementeAt(size_t x, size_t y, const T& inElem)
 {
     mCells[x][y] = inElem;
