@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sam/projects/helloworld2/Part1_Employee/Database.cpp
+iostream
+-
+stdexcept
+-
+Database.h
+/home/sam/projects/helloworld2/Part1_Employee/Database.h
+
+/home/sam/projects/helloworld2/Part1_Employee/Database.h
+iostream
+-
+vector
+-
+Employee.h
+/home/sam/projects/helloworld2/Part1_Employee/Employee.h
+
+/home/sam/projects/helloworld2/Part1_Employee/Employee.cpp
+iostream
+-
+Employee.h
+/home/sam/projects/helloworld2/Part1_Employee/Employee.h
+
+/home/sam/projects/helloworld2/Part1_Employee/Employee.h
+string
+-
+
+/home/sam/projects/helloworld2/Part1_Employee/UserInterface.cpp
+iostream
+-
+stdexcept
+-
+exception
+-
+Database.h
+/home/sam/projects/helloworld2/Part1_Employee/Database.h
+

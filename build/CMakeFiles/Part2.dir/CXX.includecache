@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sam/projects/helloworld2/Part1/AirlineTicket.h
+string
+-
+
+/home/sam/projects/helloworld2/Part1/main.cpp
+iostream
+-
+memory
+-
+AirlineTicket.h
+/home/sam/projects/helloworld2/Part1/AirlineTicket.h
+

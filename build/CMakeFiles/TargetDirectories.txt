@@ -1,0 +1,3 @@
+/home/sam/projects/helloworld2/build/CMakeFiles/rebuild_cache.dir
+/home/sam/projects/helloworld2/build/CMakeFiles/edit_cache.dir
+/home/sam/projects/helloworld2/build/CMakeFiles/Part2.dir

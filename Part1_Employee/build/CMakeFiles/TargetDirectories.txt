@@ -1,0 +1,3 @@
+/home/sam/projects/helloworld2/Part1_Employee/build/CMakeFiles/rebuild_cache.dir
+/home/sam/projects/helloworld2/Part1_Employee/build/CMakeFiles/edit_cache.dir
+/home/sam/projects/helloworld2/Part1_Employee/build/CMakeFiles/program.dir

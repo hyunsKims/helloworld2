@@ -1,0 +1,3 @@
+/home/sam/projects/helloworld2/cmakeTest/build/CMakeFiles/rebuild_cache.dir
+/home/sam/projects/helloworld2/cmakeTest/build/CMakeFiles/edit_cache.dir
+/home/sam/projects/helloworld2/cmakeTest/build/CMakeFiles/program.dir
